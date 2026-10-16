@@ -6,7 +6,7 @@ CS50 Cybersecurity Final Project - Analysis of CVE-2025-53770 SharePoint Zero-Da
 #### Student Name: Nasim Gharebegi
 #### edX Username: thiconickid0
 #### GitHub Username: thiconickid
-#### Video Presentation: [Watch on YouTube](https://YOUR-YOUTUBE-VIDEO-LINK-HERE)
+#### Video Presentation: [Watch on YouTube](https://youtu.be/wtCOoKn2TIA?is=xAJd8j-mF9-Mbf6X)
 
 ---
 
