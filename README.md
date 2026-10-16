@@ -22,7 +22,7 @@ The primary objective of this project is to bridge real-world cyber threat intel
 
 A comprehensive voice-over presentation detailing this incident has been recorded and uploaded as part of the CS50 Cybersecurity final submission requirements:
 
-* **YouTube URL:** [https://youtu.be/wtCOoKn2TIA?is=xAJd8j-mF9-Mbf6X]
+* **YouTube URL:** [Watch on YouTube](https://youtu.be/wtCOoKn2TIA?is=xAJd8j-mF9-Mbf6X)
 * **Recording Date:** October 16, 2026
 
 ---
